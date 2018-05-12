@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/787
     wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26572#Chips-From-A-German-Workshop.-Vol.-III.--13-Essays-on-Literature-Biography-and-Antiquities
 gutenberg_issued: '2008-09-10'
 gutenberg_type: Text
 identifiers:
